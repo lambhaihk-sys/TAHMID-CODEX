@@ -1,5 +1,15 @@
-Flask
-Flask-Session
-werkzeug
-gunicorn app:app
-telebot
+protobuf
+pycryptodome
+requests
+urllib3
+aiohttp
+PyJWT
+psutil
+pytz
+protobuf-decoder
+cfonts
+httpx
+google
+flask
+pyTelegramBotAPI
+gunicorn
